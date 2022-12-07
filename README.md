@@ -7,7 +7,7 @@ Hola, mi nombre es Safir Khan y en este repositorio guardo proyectos que he desa
 - Actualmente estoy estudiando desarrollo de software.
 - Me desenvuelvo bien con el ingles.
 ~~~
-##:github_octocat:Conocimientos de programación con los que cuento:
+##:computer:Conocimientos de programación con los que cuento:
 ~~~
 - JavaScript
 - Python
