@@ -1,25 +1,31 @@
-#
+#:bust_in_silhouette:Mi perfil
+~~~
+Hola, mi nombre es Safir Khan y en este repositorio guardo proyectos que he desarrollado en mi crecimiento como programador.
+~~~
+##:mortar_board:About me:
+~~~
+- Actualmente estoy estudiando desarrollo de software.
+- Me desenvuelvo bien con el ingles.
+~~~
+##:github_octocat:Conocimientos de programación con los que cuento:
+~~~
+- JavaScript
+- Python
+- SQL
+- PHP
+- HTML5
+- CSS
+- Laravel
+- Bootstrap 5
+- 
+ninguno de estos lenguajes de promagramación, lenguales enriquesidose o frameworks lo se utilizar al 100% pero los he utilizado por un buen tiempo y estoy en constante mejoramiento
 
+####:open_file_folder:Proyectos en los que he trabajado:
 
-
-
-
-
-
-
-### Hi there 👋
-
-<!--
-**Safirkz/Safirkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-[Inmobiliaria malibu/ github](https://github.com/Xslance21/Inmobiliaria_malibu)
+[Ir a la pagina.](https://inmobiliaria-malibu.000webhostapp.com/index.php)
+~~~
+##:v:Hasta pronto:
+~~~
+Gracias por leer este repositorio.
+~~~
